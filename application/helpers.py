@@ -73,7 +73,7 @@ def get_repositories() -> list:
 
     github_token = os.environ["GITHUB_ACCESS"]
 
-    url = "https://api.github.com/users/bogdanotava/repos"
+    url = "https://api.github.com/users/geogeolo/repos"
     params = {"per_page": 1000}
     headers = {"Authorization": f"token {github_token}"}
 
