@@ -19,10 +19,11 @@ cache = Cache(app)
 def loading():
     """Renders the 'Loading' page of the website."""
 
-    response = make_response(render_template("loading.html"))
-    response.headers["Cache-Control"] = "public, max-age=3"
+    #response = make_response(render_template("loading.html"))
+    #response.headers["Cache-Control"] = "public, max-age=3"
 
-    return response
+    #return response
+    return render_template("home.html")
 
 
 @app.route("/home")
