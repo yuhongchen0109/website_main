@@ -20,7 +20,7 @@ def loading():
     """Renders the 'Loading' page of the website."""
 
     response = make_response(render_template("loading.html"))
-    response.headers["Cache-Control"] = "public, max-age=10"
+    response.headers["Cache-Control"] = "public, max-age=3"
 
     return response
 
