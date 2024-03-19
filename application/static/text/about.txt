@@ -1,17 +1,7 @@
-   I'm a 25-year-old programmer based in Cluj-Napoca, Romania. 
-   
-   My journey in programming started over a year ago, when I stumbled upon some Python tutorials on YouTube. 
-Driven by curiosity and the passion for learning,
-I dove deeper into the world of Python and completed a comprehensive course that lasted five months.
-I then furthered my knowledge by enrolling in a self-paced Introduction to Computer Science course.
+Jack is a 30-year-old IT specialist based in London, UK. His foray into IT was sparked by his innate curiosity and keen interest in technology. Over the years, Jack has honed his skills in various IT disciplines, distinguishing himself in hardware and software. His expertise spans many technologies, including advanced proficiency in Python, Java, and C, which he utilizes mainly for backend development projects.
 
-   Currently, my primary focus is on backend development, where I have expertise in languages
-such as Python, Java, and C. However, I also possess knowledge of frontend development,
-enabling me to contribute to full-stack development projects. My skills extend
-beyond programming languages, as I also have experience in databases, Git & Version Control,
-algorithms & data structures, Object-Oriented Programming, and Linux.
+Jack's abilities are not confined to programming alone; he also boasts significant knowledge in database management, Git & Version Control systems, algorithms & data structures, Object-Oriented Programming (OOP), and Linux operating systems. This broad skill set enables him to contribute effectively to full-stack development initiatives, seamlessly integrating backend functionalities with front-end operations.
 
-   I'm currently seeking new opportunities to further my growth and learn more
-about software development and web development. I am highly motivated to expand
-my skills and take on new challenges. Please feel free to reach out to me if 
-you'd like to know more.
+Beyond his technical competencies, Jack is passionate about finding innovative solutions to complex problems, a trait that has propelled him through various challenging projects. Although he does not produce tutorial content on YouTube, his problem-solving and continuous learning approach keeps him at the forefront of IT advancements.
+
+Jack is on the lookout for new challenges and opportunities to further his growth in the IT sector. He is eager to apply his extensive knowledge and experience to new projects, aiming to make significant contributions to software and web development. Jack is highly motivated to continue expanding his skill set and welcomes the chance to engage with others interested in advancing their understanding of IT.
